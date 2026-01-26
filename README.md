@@ -1,5 +1,8 @@
 # Software Advanced (S7)
 
+### My work
+TeammateTinder Repositories: https://github.com/orgs/TeammateTinder/repositories
+
 ### What actually went wrong
 My semester 3 was a mess and I didn't learn much in semester 3. Semester 7 continues on semester 3, that is why I felt like I had no idea what everyone was talking about all the time. in this semester I looked back at semester 3 and learned the fundamentals I should've learned earlier. In short, think of: Docker, Microservices, Container Injection, Overal Experience.
 
